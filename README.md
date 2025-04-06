@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arup-kumar-samal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arup-kumar-samal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arup-kumar-samal-5a86a9357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arup-kumar-samal" height="30" width="40" /></a>
 <a href="https://instagram.com/floating_heart__ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="floating_heart__ak" height="30" width="40" /></a>
 </p>
 
